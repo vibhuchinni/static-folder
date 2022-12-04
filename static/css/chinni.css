@@ -1,0 +1,18 @@
+h2{
+    background-color: darkturquoise;
+    padding: 20px;
+}
+h1{
+    background-color: burlywood;
+    color: brown;
+    padding: 15px;
+}
+p{
+    background: linear-gradient(45deg,red,blue,yellow);
+    color: ghostwhite;
+}
+img{
+    padding: 15px;
+    border: 5px solid green;
+    margin:2px;
+}
